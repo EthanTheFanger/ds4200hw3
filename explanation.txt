@@ -1,4 +1,4 @@
-https://ethanthefanger.github.io/origami-site-ds4200/
+https://ethanthefanger.github.io/ds4200hw3/
 
 Fonts: I implemented custom Google Fonts to enhance the visual appeal and readability of the website
 
@@ -9,4 +9,5 @@ Colour choices, I tried to model my colour choice after geeksforgeeks as I feel 
 Subtle design choices: 
 I used box shadows for divs to make them have more depth. 
 I used padding on all divs and lists to make the website feel less crowded. 
+
 Made the divs rounded so that it feels more 
